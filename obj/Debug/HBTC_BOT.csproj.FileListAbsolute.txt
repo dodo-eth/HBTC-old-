@@ -1,0 +1,15 @@
+C:\Users\Egor\source\repos\HBTC_BOT\HBTC_BOT\bin\Debug\HBTC_BOT.exe.config
+C:\Users\Egor\source\repos\HBTC_BOT\HBTC_BOT\bin\Debug\HBTC_BOT.exe
+C:\Users\Egor\source\repos\HBTC_BOT\HBTC_BOT\bin\Debug\HBTC_BOT.pdb
+C:\Users\Egor\source\repos\HBTC_BOT\HBTC_BOT\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Egor\source\repos\HBTC_BOT\HBTC_BOT\bin\Debug\Telegram.Bot.dll
+C:\Users\Egor\source\repos\HBTC_BOT\HBTC_BOT\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Egor\source\repos\HBTC_BOT\HBTC_BOT\bin\Debug\Telegram.Bot.xml
+C:\Users\Egor\source\repos\HBTC_BOT\HBTC_BOT\obj\Debug\HBTC_BOT.csprojAssemblyReference.cache
+C:\Users\Egor\source\repos\HBTC_BOT\HBTC_BOT\obj\Debug\HBTC_BOT.Form1.resources
+C:\Users\Egor\source\repos\HBTC_BOT\HBTC_BOT\obj\Debug\HBTC_BOT.Properties.Resources.resources
+C:\Users\Egor\source\repos\HBTC_BOT\HBTC_BOT\obj\Debug\HBTC_BOT.csproj.GenerateResource.cache
+C:\Users\Egor\source\repos\HBTC_BOT\HBTC_BOT\obj\Debug\HBTC_BOT.csproj.CoreCompileInputs.cache
+C:\Users\Egor\source\repos\HBTC_BOT\HBTC_BOT\obj\Debug\HBTC_BOT.csproj.CopyComplete
+C:\Users\Egor\source\repos\HBTC_BOT\HBTC_BOT\obj\Debug\HBTC_BOT.exe
+C:\Users\Egor\source\repos\HBTC_BOT\HBTC_BOT\obj\Debug\HBTC_BOT.pdb
